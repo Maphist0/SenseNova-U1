@@ -22,6 +22,8 @@
 
 ## 📣 Updated News
 
+- `[2026.09.01]` Community contributor [realrebelai on Hugging Face](https://huggingface.co/realrebelai) (GitHub [@RealRebelAI](https://github.com/RealRebelAI)) released a [Q8 GGUF checkpoint for SenseNova-U1.5-8B-MoT](https://huggingface.co/realrebelai/SenseNova-U1.5-8B_GGUFs/blob/main/SenseNova-U1.5-8B-MoT-Q8_0.gguf) (21.2 GB). Thank you for continuing to maintain and share quantized SenseNova-U1 weights with the community.
+
 - `[2026.08.20]` Release [SenseNova-U1.5-8B-MoT](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT), which further improves instruction following, text and layout, native 4K generation, image editing, and visual control. Alongside the base checkpoint, we release [SenseNova-U1.5-8B-MoT-LoRA-8step](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT-LoRAs/blob/main/SenseNova-U1.5-8B-MoT-LoRA-8step.safetensors) for faster and more efficient inference; see [example script](docs/base_vs_distill.md#sensenova-u15-recommended) for usage. We are also preparing the technical report and the full training pipeline, from SFT and RL to MOPD, for open-source release.
 
 - `[2026.08.04]` Community contributor [smthem on Hugging Face](https://huggingface.co/smthem) (GitHub [@smthemex](https://github.com/smthemex)) released a [Q8 GGUF checkpoint for SenseNova-U1.5-8B-MoT-Preview](https://huggingface.co/smthem/SenseNova-U1-8B-MoT-Merger-gguf/blob/main/SenseNova-U1.5-8B-MoT-Preview-Q8.gguf) (19.9 GB). Thank you for continuing to maintain and share quantized SenseNova-U1 weights with the community.
